@@ -1,0 +1,6 @@
+{
+  "name": "공약위키",
+  "description": "공공 공약사항 오픈위키 협업 관리, 3방향 PDF 비교·병합 및 철도망 시각화 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
